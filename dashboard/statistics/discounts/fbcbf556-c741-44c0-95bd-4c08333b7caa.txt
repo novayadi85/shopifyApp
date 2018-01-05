@@ -1,0 +1,1 @@
+{"value_type":"fixed_amount","target_type":"line_item","target_selection":"all","discount_code":"FREE50","prerequisite_subtotal_range":{"greater_than_or_equal_to":"100"},"headline":"FREE OF 50%","subheadline":"Let Trye it","message":"TEST","value":"50","allocation_method":"across"}

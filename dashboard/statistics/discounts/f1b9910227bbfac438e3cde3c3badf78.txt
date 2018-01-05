@@ -1,0 +1,1 @@
+{"value_type":"percentage","target_type":"shipping_line","target_selection":"all","entitled_country_ids":["22322446363"],"prerequisite_subtotal_range":{"greater_than_or_equal_to":"10"},"discount_code":"FREESHIPPING18","headline":"GET GRATIS FRAGT","subheadline":"Free Shipping OFF","message":"Let shopping more and more...","allocation_method":"each","value":100}
