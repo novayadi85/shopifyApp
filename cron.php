@@ -13,6 +13,11 @@ curl_setopt($mch, CURLOPT_TIMEOUT, 10);
 curl_setopt($mch, CURLOPT_SSL_VERIFYPEER, false); 
 $response = curl_exec($mch);
 $response = json_decode($response,true);
+
+print "<pre>";
+print_r($response);
+print "</pre>";
+
 curl_close();
 
 $destination = array();
